@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+#Test
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fptai_v3_plugins.settings')
     try:
